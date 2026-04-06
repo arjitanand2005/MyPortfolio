@@ -22,6 +22,7 @@ export default function App() {
         <Hero />
         <About />
         <Projects />
+        <UIUXSection />
         <VideoPortfolio />
         <Skills />
         <Experience />
