@@ -1,5 +1,4 @@
 import useLenis from "./hooks/useLenis";
-import UIUXSection from "./components/UIUXSection";
 import CustomCursor from "./components/CustomCursor";
 import Navbar from "./components/Navbar";
 import Hero from "./components/Hero";
@@ -22,7 +21,6 @@ export default function App() {
         <Hero />
         <About />
         <Projects />
-        <UIUXSection />
         <VideoPortfolio />
         <Skills />
         <Experience />
